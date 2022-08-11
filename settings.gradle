@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "彩云之南"
+rootProject.name = "中國金條"
 include ':app'
